@@ -39,14 +39,15 @@ header .container
 
 header .container .logo
 {
-    width: 100px;
+    width: 60px;
 }
 
 header .container nav a
 {
-    color: red;
+    color: #068C00;
     text-decoration: none;
     margin: 0 15px;
+
 }
 
 header .container .hamb
@@ -120,10 +121,11 @@ footer .redes a
 
 .boton.boton-rojo 
 {
-    background-color: red;
+    background-color: rgb(13, 216, 46);
     color: white;
     font-size: 20px;
     font-weight: bold;
+    margin-top: 80px;
 }
 
 .boton.boton-negro 
@@ -266,19 +268,19 @@ footer .redes a
 
 #inicio .bloque-inicio h1
 {
-    color: white;
+    color: blue;
     font-size: 35px;
 }
 
 #inicio .bloque-inicio p
 {
-    color: white;
-    font-size: 16px;
+    color: brown;
+    font-size: 23px;
 }
 
 #nosotros
 {
-    background-image: url(img/latas.jpg);
+    background-image: url(img/bosque.jpg);
     background-size: cover;
     color: white;
     text-align: center;
